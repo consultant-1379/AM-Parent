@@ -1,0 +1,26 @@
+# UUID                                  	Group Name
+#
+1808131bbdab3fd9077969b822ede9d34d898766	Replication_SEKI_ECN_DO_NOT_REMOVE
+42951360af16edeb688f4fea9c6267fc3b00ab47	Replication_DEAC_ECN_DO_NOT_REMOVE
+4b962674f99a09b0eb46d541d012deb03f01f5d7	Replication_CNSH_ECN_DO_NOT_REMOVE
+8a12077ba43d38ee169ba6d8ed27491c1d5504ed	AM
+a69b3f06bd21180f40e16dfbd9c3de09f9e76f1a	Replication_SELI_ECN_DO_NOT_REMOVE
+d6b2899ead58bbd7f6159baea593134d9809b28d	Replication_CAMO_ECN_DO_NOT_REMOVE
+db2dcfe8a14dbfe30f39e2c76168f8d7f54f87d7	Replication_USSJ_ECN_DO_NOT_REMOVE
+e4a7a9b8d3148dff37f8b01a24158d00f963c86c	ECM CI
+e81d8477225265f9bc85d0ebcb6124a75420d71c	HoneyMerge
+f5ce6fccdec332d26b3c3aeb0391068a5da9b464	Replication_Gamma_Migration_DO_NOT_REMOVE
+fb47941ac34b8fa9cd0f95dd3b496ae2b44e2515	Replication_SELN_ECN_DO_NOT_REMOVE
+global:Registered-Users                 	Registered Users
+user:amadm100                           	user/ID for App Mgr FUNCTIONAL (amadm100)
+user:eernagg                            	user/Gergely Nagy L (eernagg)
+user:ejohlyn                            	user/John Lynch (ejohlyn)
+user:ekellmi                            	user/Michael Kelly M (ekellmi)
+user:ekiajen                            	user/Kian Jennings (ekiajen)
+user:eleohlt                            	user/Ellen Thomas (eleohlt)
+user:enovyur                            	user/Yurii Novostavskyy (enovyur)
+user:eoadm100                           	user/ID for EO Top Tier Services (eoadm100)
+user:erodunn                            	user/Robert Dunne (erodunn)
+user:lciadm100                          	user/LCI user access (lciadm100)
+user:ossapps100                         	user/ossapps100 User for IDUN App Staging (ossapps100)
+user:xolevel                            	user/Oleksandr Velychko (EXT) (xolevel)
